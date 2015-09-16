@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=a11\ a12\ a21\ a22
+comment0.target=Matriks2x2(int,\ int,\ int,\ int)
+comment1.params=baris\ kolom
+comment1.target=int\ elemen(int,\ int)
+comment2.params=kanan
+comment2.target=Matriks2x2\ tambah(Matriks2x2)
+comment3.params=kanan
+comment3.target=Matriks2x2\ kurang(Matriks2x2)
+comment4.params=kanan
+comment4.target=Matriks2x2\ kali(Matriks2x2)
+comment5.params=
+comment5.target=double\ determinan()
+comment6.params=
+comment6.target=Matriks2x2\ inverse()
+comment7.params=determinan
+comment7.target=double\ inverseSingular(double)
+numComments=8
