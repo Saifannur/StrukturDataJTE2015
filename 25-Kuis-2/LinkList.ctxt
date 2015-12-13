@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LinkList()
+comment1.params=
+comment1.target=Node\ kepala()
+comment2.params=data
+comment2.target=void\ tambah(java.math.BigDecimal)
+numComments=3

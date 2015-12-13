@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=UjiDataDecimal()
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ tearDown()
+comment3.params=
+comment3.target=void\ berkasKosong()
+comment4.params=
+comment4.target=void\ berkasSatuBaris()
+comment5.params=
+comment5.target=void\ berkasSeratusBaris()
+comment6.params=
+comment6.target=void\ berkasSeribuBaris()
+comment7.params=
+comment7.target=void\ berkasSepuluhSeribuBaris()
+comment8.params=baris
+comment8.target=void\ buatBerkasUji(int)
+comment9.params=kepala
+comment9.target=void\ bandingkanIsiBerkasDenganNode(Node)
+numComments=10
